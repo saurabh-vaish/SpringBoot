@@ -1,4 +1,0 @@
-spring:  profiles:    active: dev
-my:  message: from default message
-  code: from default code
-  mode: from default mode  ---spring:  profiles: devmy:  code: from dev code  mode: from dev mode---spring:  profiles: qamy:  message: from qa message  mode: from qa mode
