@@ -14,6 +14,7 @@
   <li> <a href="/SpringBootCore/SpringBootStarter-othside-basePackage">SpringBootStarter-othside-basePackage</a> </li>
   <li> <a href="/SpringBootCore/SpringBootStarter-Configuration_Component">SpringBootStarter-Configuration_Component</a> </li>
   <li> <a href="/SpringBootCore/SpringBootStarter-autoLoadConfiguration">SpringBootStarter-autoLoadConfiguration</a> </li>
+   <li> <a href="/SpringBootCore/SpringBootStarterClass-Banner-getAllBeans">SpringBootStarterClass-Banner-getAllBeans</a> </li>
   </li>
 </ol>
     
