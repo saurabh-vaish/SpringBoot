@@ -17,6 +17,7 @@
    <li> <a href="/SpringBootCore/SpringBootStarterClass-Banner-getAllBeans">SpringBootStarterClass-Banner-getAllBeans</a> </li>
    <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Embded-H2Db">SpringBootDataJpa-Embded-H2Db</a> </li>
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-CrudOperation">SpringBootDataJpa-Mysql-CrudOperation</a> </li>
+    <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindAllMethods">SpringBootDataJpa-Mysql-FindAllMethods</a> </li>
   </li>
 </ol>
     
