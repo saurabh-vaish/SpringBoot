@@ -58,6 +58,8 @@ public class ProductRunner implements CommandLineRunner {
 		repo.findByProdCostOrderByProdCodeDesc(3.3)  //.... where pcost= ? order by pcode
 		.forEach(System.out::println);
 		
+		repo.findByProdCodeLikeAndProdIdBetween("%A%", 2,8)   // ... where pcode like "%A%" and pid between ? and ?
+		.forEach(System.out::println);
 				
 		
 	}
