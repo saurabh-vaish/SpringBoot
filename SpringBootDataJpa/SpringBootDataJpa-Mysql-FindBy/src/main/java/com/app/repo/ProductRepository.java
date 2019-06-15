@@ -56,7 +56,9 @@ public interface ProductRepository extends JpaRepository<Product, Integer> {
 	List<Product> findByProdCostOrderByProdCodeDesc(Double pcost);   //  in desending order
 
 
-	
+	// 9. ... where pcode like "%A%" and pid between ? and ?
+	List<Product> findByProdCodeLikeAndProdIdBetween(String pcode,Integer pid1,Integer pid2);
+
 	
 
 
