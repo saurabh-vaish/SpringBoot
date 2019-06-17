@@ -19,8 +19,9 @@
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-CrudOperation">SpringBootDataJpa-Mysql-CrudOperation</a> </li>
     <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindAllMethods">SpringBootDataJpa-Mysql-FindAllMethods</a> </li>
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindBy">SpringBootDataJpa-Mysql-FindBy</a> </li>
-    <li> <a href="/SpringBootDataJpa/ SpringBootDataJpa-Mysql-FindBy-Projection"> SpringBootDataJpa-Mysql-FindBy-Projection</a> </li>
- 
+    <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindBy-Projection"> SpringBootDataJpa-Mysql-FindBy-Projection</a> </li>
+    <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-QueryMethods">SpringBootDataJpa-Mysql-QueryMethods</a> </li>
+  
   </li>
 </ol>
     
