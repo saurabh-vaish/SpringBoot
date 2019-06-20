@@ -9,7 +9,7 @@
      <li> <a href="/SpringBootCore/SpringBootProfiles-multiple-propertyFile">SpringBootProfiles-multiple-propertyFile</a> </li>
      <li> <a href="/SpringBootCore/SpringBootProfiles-multiple-property-OneYml">SpringBootProfiles-multiple-property-OneYml </a> </li>
      <li> <a href="/SpringBootCore/SpringBootProfiles-property_file-Example">SpringBootProfiles-property_file-Example</a> </li>
-     <li> <a href="/SpringBootCore/SpringBootProfiles-service-based-multiple-profiles">SpringBootProfiles-service-based-multiple-profiles </a>
+     <li> <a href="/SpringBootCore/SpringBootProfiles-service-based-multiple-profiles">SpringBootProfiles-service-based-multiple-profiles </a> </li>
     <li> <a href="/SpringBootCore/SpringBootStarter-SpringContainer">SpringBootStarter-SpringContainer</a> </li>
   <li> <a href="/SpringBootCore/SpringBootStarter-othside-basePackage">SpringBootStarter-othside-basePackage</a> </li>
   <li> <a href="/SpringBootCore/SpringBootStarter-Configuration_Component">SpringBootStarter-Configuration_Component</a> </li>
@@ -21,7 +21,6 @@
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindBy">SpringBootDataJpa-Mysql-FindBy</a> </li>
     <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindBy-Projection"> SpringBootDataJpa-Mysql-FindBy-Projection</a> </li>
     <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-QueryMethods">SpringBootDataJpa-Mysql-QueryMethods</a> </li>
-  
-  </li>
+  <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-SpecialMethods">SpringBootDataJpa-Mysql-SpecialMethods</a> </li>
 </ol>
     
