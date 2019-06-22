@@ -1,0 +1,24 @@
+## datasource properties ##
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboot
+    username: root
+    password: root
+    ### hikari connection pool properties
+    hikari:
+      maximum-pool-size: 12       ### max connections
+      connection-timeout: 20000   ### if no connection allocated 
+      max-lifetime: 1200000       ### life time of sql 
+      minimum-idle: 5             ### idle connections
+      idle-timeout: 30000         ### if no activity then idle
+      auto-commit: true
+    
+## jpa properties ##
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL55Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
