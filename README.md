@@ -22,5 +22,6 @@
     <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-FindBy-Projection"> SpringBootDataJpa-Mysql-FindBy-Projection</a> </li>
     <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-QueryMethods">SpringBootDataJpa-Mysql-QueryMethods</a> </li>
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-SpecialMethods">SpringBootDataJpa-Mysql-SpecialMethods</a> </li>
+  <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-ConnectionPool">SpringBootDataJpa-ConnectionPool</a> </li>
 </ol>
     
