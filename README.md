@@ -24,5 +24,6 @@
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-Mysql-SpecialMethods">SpringBootDataJpa-Mysql-SpecialMethods</a> </li>
   <li> <a href="/SpringBootDataJpa/SpringBootDataJpa-ConnectionPool">SpringBootDataJpa-ConnectionPool</a> </li>
   <li> <a href="/SpringBootMongoDb/SpringBoot-MongoDB-Embded">SpringBoot-MongoDB-Embded</a> </li>
+  <li> <a href="/SpringBootMongoDb/SpringBoot-MongoDB-External">SpringBoot-MongoDB-External</a> </li>
 </ol>
     
