@@ -30,5 +30,6 @@
     <li> <a href="/SpringBootMVC/SpringBootMVC-1">SpringBootMVC-First-App</a> </li>
    <li> <a href="/SpringBootMVC/SpringBootMVC-Crud-Employee">SpringBootMVC-Crud-App</a> </li>
   <li> <a href="/SpringBoot-Mail">SpringBoot-Mail</a> </li>
+   <li> <a href="/SpringBootMVC/SpringBoot-MVC-Thymeleaf">SpringBoot-MVC-Thymeleaf</a> </li>
 </ol>
     
