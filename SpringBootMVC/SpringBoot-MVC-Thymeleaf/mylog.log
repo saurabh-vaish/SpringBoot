@@ -1,0 +1,306 @@
+[INFO] 09:07:2019 04:31:38 518 org.springframework.boot.StartupInfoLogger [logStarting] {Starting SpringBootMvcThymeleafApplication on IncredibleSRV with PID 9324 (C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf\target\classes started by The_Incredible_Srv in C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf)} 
+[INFO] 09:07:2019 04:31:38 534 org.springframework.boot.SpringApplication [logStartupProfileInfo] {No active profile set, falling back to default profiles: default} 
+[INFO] 09:07:2019 04:31:38 753 org.springframework.boot.logging.DeferredLog [logTo] {Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable} 
+[INFO] 09:07:2019 04:31:38 753 org.springframework.boot.logging.DeferredLog [logTo] {For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'} 
+[INFO] 09:07:2019 04:31:42 472 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [initialize] {Tomcat initialized with port(s): 9090 (http)} 
+[INFO] 09:07:2019 04:31:42 551 org.apache.juli.logging.DirectJDKLog [log] {Starting service [Tomcat]} 
+[INFO] 09:07:2019 04:31:42 566 org.apache.juli.logging.DirectJDKLog [log] {Starting Servlet engine: [Apache Tomcat/9.0.21]} 
+[INFO] 09:07:2019 04:31:42 848 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring embedded WebApplicationContext} 
+[INFO] 09:07:2019 04:31:42 848 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [prepareWebApplicationContext] {Root WebApplicationContext: initialization completed in 4095 ms} 
+[INFO] 09:07:2019 04:31:43 504 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [initialize] {Initializing ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:31:44 138 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [startServer] {LiveReload server is running on port 35729} 
+[INFO] 09:07:2019 04:31:44 310 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [start] {Tomcat started on port(s): 9090 (http) with context path ''} 
+[INFO] 09:07:2019 04:31:44 326 org.springframework.boot.StartupInfoLogger [logStarted] {Started SpringBootMvcThymeleafApplication in 7.087 seconds (JVM running for 9.67)} 
+[INFO] 09:07:2019 04:33:22 348 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [shutdown] {Shutting down ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:33:23 410 org.springframework.boot.StartupInfoLogger [logStarting] {Starting SpringBootMvcThymeleafApplication on IncredibleSRV with PID 9324 (C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf\target\classes started by The_Incredible_Srv in C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf)} 
+[INFO] 09:07:2019 04:33:23 410 org.springframework.boot.SpringApplication [logStartupProfileInfo] {No active profile set, falling back to default profiles: default} 
+[INFO] 09:07:2019 04:33:24 535 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [initialize] {Tomcat initialized with port(s): 9090 (http)} 
+[INFO] 09:07:2019 04:33:24 541 org.apache.juli.logging.DirectJDKLog [log] {Starting service [Tomcat]} 
+[INFO] 09:07:2019 04:33:24 541 org.apache.juli.logging.DirectJDKLog [log] {Starting Servlet engine: [Apache Tomcat/9.0.21]} 
+[INFO] 09:07:2019 04:33:24 603 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring embedded WebApplicationContext} 
+[INFO] 09:07:2019 04:33:24 603 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [prepareWebApplicationContext] {Root WebApplicationContext: initialization completed in 1178 ms} 
+[INFO] 09:07:2019 04:33:24 775 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [initialize] {Initializing ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:33:24 978 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [startServer] {LiveReload server is running on port 35729} 
+[INFO] 09:07:2019 04:33:25 025 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [start] {Tomcat started on port(s): 9090 (http) with context path ''} 
+[INFO] 09:07:2019 04:33:25 041 org.springframework.boot.StartupInfoLogger [logStarted] {Started SpringBootMvcThymeleafApplication in 1.738 seconds (JVM running for 110.384)} 
+[INFO] 09:07:2019 04:33:25 041 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [onApplicationEvent] {Condition evaluation unchanged} 
+[INFO] 09:07:2019 04:33:28 494 org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [shutdown] {Application shutdown requested.} 
+[INFO] 09:07:2019 04:33:28 499 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [shutdown] {Shutting down ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:35:54 756 org.springframework.boot.StartupInfoLogger [logStarting] {Starting SpringBootMvcThymeleafApplication on IncredibleSRV with PID 8904 (C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf\target\classes started by The_Incredible_Srv in C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf)} 
+[INFO] 09:07:2019 04:35:54 772 org.springframework.boot.SpringApplication [logStartupProfileInfo] {No active profile set, falling back to default profiles: default} 
+[INFO] 09:07:2019 04:35:54 944 org.springframework.boot.logging.DeferredLog [logTo] {Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable} 
+[INFO] 09:07:2019 04:35:54 944 org.springframework.boot.logging.DeferredLog [logTo] {For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'} 
+[INFO] 09:07:2019 04:35:59 553 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [initialize] {Tomcat initialized with port(s): 9090 (http)} 
+[INFO] 09:07:2019 04:35:59 688 org.apache.juli.logging.DirectJDKLog [log] {Starting service [Tomcat]} 
+[INFO] 09:07:2019 04:35:59 688 org.apache.juli.logging.DirectJDKLog [log] {Starting Servlet engine: [Apache Tomcat/9.0.21]} 
+[INFO] 09:07:2019 04:36:00 094 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring embedded WebApplicationContext} 
+[INFO] 09:07:2019 04:36:00 094 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [prepareWebApplicationContext] {Root WebApplicationContext: initialization completed in 5150 ms} 
+[INFO] 09:07:2019 04:36:00 860 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [initialize] {Initializing ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:36:01 514 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [startServer] {LiveReload server is running on port 35729} 
+[INFO] 09:07:2019 04:36:01 670 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [start] {Tomcat started on port(s): 9090 (http) with context path ''} 
+[INFO] 09:07:2019 04:36:01 686 org.springframework.boot.StartupInfoLogger [logStarted] {Started SpringBootMvcThymeleafApplication in 8.226 seconds (JVM running for 10.884)} 
+[INFO] 09:07:2019 04:36:11 489 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring DispatcherServlet 'dispatcherServlet'} 
+[INFO] 09:07:2019 04:36:11 500 org.springframework.web.servlet.FrameworkServlet [initServletBean] {Initializing Servlet 'dispatcherServlet'} 
+[INFO] 09:07:2019 04:36:11 517 org.springframework.web.servlet.FrameworkServlet [initServletBean] {Completed initialization in 16 ms} 
+[INFO] 09:07:2019 04:36:17 814 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 04:36:28 955 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[WARN] 09:07:2019 04:37:02 506 org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [logException] {Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'employee' on field 'empSal': rejected value [sdd]; codes [typeMismatch.employee.empSal,typeMismatch.empSal,typeMismatch.java.lang.Double,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employee.empSal,empSal]; arguments []; default message [empSal]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Double' for property 'empSal'; nested exception is java.lang.NumberFormatException: For input string: "sdd"]]} 
+[INFO] 09:07:2019 04:37:29 508 com.app.controller.EmployeeController [saveEmployee] {entered into save method} 
+[INFO] 09:07:2019 04:37:29 508 com.app.controller.EmployeeController [saveEmployee] {saved successfully} 
+[ERROR] 09:07:2019 04:37:29 528 org.thymeleaf.TemplateEngine [process] {[THYMELEAF][http-nio-9090-exec-7] Exception processing template "info": Error resolving template [info], template might not exist or might not be accessible by any of the configured Template Resolvers} 
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [info], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072)
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362)
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1371)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1117)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1056)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR] 09:07:2019 04:37:29 528 org.apache.juli.logging.DirectJDKLog [log] {Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [info], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause} 
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [info], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072)
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362)
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1371)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1117)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1056)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[INFO] 09:07:2019 04:39:31 367 com.app.controller.EmployeeController [saveEmployee] {entered into save method} 
+[INFO] 09:07:2019 04:39:31 367 com.app.controller.EmployeeController [saveEmployee] {saved successfully} 
+[INFO] 09:07:2019 04:39:59 869 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [shutdown] {Shutting down ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:40:00 843 org.springframework.boot.StartupInfoLogger [logStarting] {Starting SpringBootMvcThymeleafApplication on IncredibleSRV with PID 8904 (C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf\target\classes started by The_Incredible_Srv in C:\Users\The_Incredible_Srv\Documents\spring\springBoot\SpringBootMVC\SpringBoot-MVC-Thymeleaf)} 
+[INFO] 09:07:2019 04:40:00 843 org.springframework.boot.SpringApplication [logStartupProfileInfo] {No active profile set, falling back to default profiles: default} 
+[INFO] 09:07:2019 04:40:01 983 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [initialize] {Tomcat initialized with port(s): 9090 (http)} 
+[INFO] 09:07:2019 04:40:01 991 org.apache.juli.logging.DirectJDKLog [log] {Starting service [Tomcat]} 
+[INFO] 09:07:2019 04:40:01 991 org.apache.juli.logging.DirectJDKLog [log] {Starting Servlet engine: [Apache Tomcat/9.0.21]} 
+[INFO] 09:07:2019 04:40:02 022 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring embedded WebApplicationContext} 
+[INFO] 09:07:2019 04:40:02 022 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [prepareWebApplicationContext] {Root WebApplicationContext: initialization completed in 1164 ms} 
+[INFO] 09:07:2019 04:40:02 194 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [initialize] {Initializing ExecutorService 'applicationTaskExecutor'} 
+[INFO] 09:07:2019 04:40:02 366 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [startServer] {LiveReload server is running on port 35729} 
+[INFO] 09:07:2019 04:40:02 413 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [start] {Tomcat started on port(s): 9090 (http) with context path ''} 
+[INFO] 09:07:2019 04:40:02 428 org.springframework.boot.StartupInfoLogger [logStarted] {Started SpringBootMvcThymeleafApplication in 1.695 seconds (JVM running for 251.616)} 
+[INFO] 09:07:2019 04:40:02 428 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [onApplicationEvent] {Condition evaluation unchanged} 
+[INFO] 09:07:2019 04:40:48 811 org.apache.juli.logging.DirectJDKLog [log] {Initializing Spring DispatcherServlet 'dispatcherServlet'} 
+[INFO] 09:07:2019 04:40:48 821 org.springframework.web.servlet.FrameworkServlet [initServletBean] {Initializing Servlet 'dispatcherServlet'} 
+[INFO] 09:07:2019 04:40:48 821 org.springframework.web.servlet.FrameworkServlet [initServletBean] {Completed initialization in 0 ms} 
+[INFO] 09:07:2019 04:40:48 821 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 04:40:51 170 com.app.controller.EmployeeController [getAllEmployees] {getted All employees [Employee(empId=10, empName=AA, empSal=1.1), Employee(empId=11, empName=BB, empSal=2.1), Employee(empId=12, empName=CC, empSal=3.1)]} 
+[ERROR] 09:07:2019 04:40:51 175 org.thymeleaf.TemplateEngine [process] {[THYMELEAF][http-nio-9090-exec-2] Exception processing template "data": Error resolving template [data], template might not exist or might not be accessible by any of the configured Template Resolvers} 
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [data], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1371) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1117) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1056) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) [spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) [spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_201]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_201]
+[ERROR] 09:07:2019 04:40:51 175 org.apache.juli.logging.DirectJDKLog [log] {Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [data], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause} 
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [data], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1371) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1117) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1056) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_201]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_201]
+[INFO] 09:07:2019 04:46:27 181 com.app.controller.EmployeeController [getAllEmployees] {getted All employees [Employee(empId=10, empName=AA, empSal=1.1), Employee(empId=11, empName=BB, empSal=2.1), Employee(empId=12, empName=CC, empSal=3.1)]} 
+[INFO] 09:07:2019 04:47:04 883 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 04:47:06 765 com.app.controller.EmployeeController [getAllEmployees] {getted All employees [Employee(empId=10, empName=AA, empSal=1.1), Employee(empId=11, empName=BB, empSal=2.1), Employee(empId=12, empName=CC, empSal=3.1)]} 
+[INFO] 09:07:2019 04:47:16 544 com.app.controller.EmployeeController [saveEmployee] {entered into save method} 
+[INFO] 09:07:2019 04:47:16 559 com.app.controller.EmployeeController [saveEmployee] {saved successfullyEmployee(empId=10, empName=saurabh, empSal=1.1)} 
+[INFO] 09:07:2019 04:47:18 829 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:00:17 888 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:01:03 896 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:01:17 525 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:01:33 666 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:02:32 533 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:02:33 570 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:02:41 603 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:05:58 537 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:12:11 945 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:12:45 280 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:18:20 224 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:18:31 567 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:27:31 591 com.app.controller.EmployeeController [getRegister] {entered into register method} 
+[INFO] 09:07:2019 05:27:47 528 com.app.controller.EmployeeController [getRegister] {entered into register method} 

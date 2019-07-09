@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>Welcome to Register Page</h2>
+	<pre>
+		<form method="POST" th:action="@{/save}" th:object="${employee}" >
+		
+		Id  : <input type="text"  th:field="*{empId}">
+		Name  : <input type="text"  th:field="*{empName}">
+		Sal  : <input type="text"  th:field="*{empSal}">
+		
+		<input type="submit" value="create" />
+		
+		</form>
+	
+	<a th:href="@{/all}">All</a>
+	
+	</pre>
+
+<pre>	
+	
+<h2>Thymeleaf :-</h2>
+<p>            Thymeleaf is a light-weight engine . It covert only dynamic ie. java code to class not static code also like JSP .
+                Its just copystatic content . So it is light weighted. <br>
+                There are four symbols in thymeleaf -- <b>@</b>, <b>$</b>, <b>*</b>, <b>#</b>
+ </p>
+ <h2>@ :-</h2>   @ symbols denote links it simple represents base path . syntax --  <b>@{/URL}</b>
+                 
+ <h2>$ :-</h2>   $ symbols denote EL . It can hold modelMap data . syntax --  <b>${modelMap attribute}</b>
+                
+ <h2>* :-</h2>   * symbols denote links to Model class variable. It only uses in Forms . syntax --  <b>*{Link to variable/varaible}</b>
+ <h2># :-</h2>   # symbols used to print messages from property files. syntax --  <b>#{...}</b>
+     
+Some attributes ---
+                                         
+ <h2>th:text :-</h2>   this is used to print on page or to print model attribute value . 
+                        e.g.   <span th:text="#{server.port}"></span>  th:text = "${msg}   or th:text = "#{message}"
+        
+<h2>th:href :-</h2>   this is used to for links with the help of @ symbol . 
+                        e.g.   <a th:href ="@{Link}">Link</a>  or th:href = "@{/link}" 
+	
+<h2>th:action :-</h2>   this is used to define action in forms with the help of @ symbol in form tag. 
+                        e.g.     th:action = "@{/save}"
+        
+<h2>th:object :-</h2>   this is used to represent Model class Object in form tag .
+                        e.g.    th:object = "${modelObject}"    
+
+<h2>th:field :-</h2>   this is used to link with model class variable . only used in forms with input tags .
+                        e.g.    th:field = "*{varaibleName}" 
+                        	
+<h2>th:each :-</h2>   this is used to represent for each loop  .
+                        e.g.    th:each = "tempVar:${modelAttribute}" 	
+	
+	
+	
+
+</body>
+</html>

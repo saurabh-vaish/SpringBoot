@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h2>Welcome to Employee Data Page</h2>
+
+	<table border="2em">
+	
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Sal</th>
+		</tr>
+		<tr th:each="ob:${list}">
+			<td th:text="${ob.empId}"></td>
+			<td th:text="${ob.empName}"></td>
+			<td th:text="${ob.empSal}"></td>
+			
+		</tr>
+	</table>
+	
+	<a th:href="@{/reg}">Register</a>
+
+
+
+
+
+
+
+</body>
+</html>
