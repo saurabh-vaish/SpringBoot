@@ -32,7 +32,8 @@
    <li> <a href="/SpringBootMVC/SpringBootMVC-Crud-Employee">SpringBootMVC-Crud-App</a> </li>
   <li> <a href="/SpringBoot-Mail">SpringBoot-Mail</a> </li>
    <li> <a href="/SpringBootMVC/SpringBoot-MVC-Thymeleaf">SpringBoot-MVC-Thymeleaf</a> </li>
-    <li> <a href="/SpringBoot-Batch-IntroApp">SpringBoot-Batch-IntroApp</a> </li>
+    <li> <a href="/SpringBootBatch/SpringBoot-Batch-IntroApp">SpringBoot-Batch-IntroApp</a> </li>
+      <li> <a href="/SpringBootBatch/SpringBoot-Batch-CSV-to-Mysql-jdbc">SpringBoot-Batch-CSV-to-Mysql-jdbc</a> </li>
 
 </ol>
     
