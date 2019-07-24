@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h2>Welcome to Spring Boot Batch Web Application</h2>
+
+	<a th:href="@{launch}">Export Csv TO Mysql</a>
+
+	<br>
+
+	<a th:href="@{data}">Show All Data</a>
+
+<br>
+
+	<table th:if="${customer}" border=2>
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>City</th>
+		<th>Cart Value</th>
+		<th>Total</th>
+	</tr>
+	<tr th:each="ob:${customer}" >
+		<td th:text="${ob.id}"></td>
+		<td th:text="${ob.name}"></td>
+		<td th:text="${ob.city}"></td>
+		<td th:text="${ob.cartValue}"></td>
+		<td th:text="${ob.total}"></td>
+	</tr>
+	
+	</table>
+
+<br>	<span th:text="${msg}"></span>
+</body>
+</html>
