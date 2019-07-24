@@ -34,6 +34,10 @@
    <li> <a href="/SpringBootMVC/SpringBoot-MVC-Thymeleaf">SpringBoot-MVC-Thymeleaf</a> </li>
     <li> <a href="/SpringBootBatch/SpringBoot-Batch-IntroApp">SpringBoot-Batch-IntroApp</a> </li>
       <li> <a href="/SpringBootBatch/SpringBoot-Batch-CSV-to-Mysql-jdbc">SpringBoot-Batch-CSV-to-Mysql-jdbc</a> </li>
+  <li> <a href="/SpringBootBatch/SpringBoot-Batch-CSV-to-Mysql-ORM">SpringBoot-Batch-CSV-to-Mysql-ORM</a> </li>
+  <li> <a href="/SpringBootBatch/SpringBoot-Batch-csv-to-mysql-web">SpringBoot-Batch-csv-to-mysql-web</a> </li>
+  <li> <a href="/SpringBootBatch/SpringBoot-Batch-Mysql-to-csv-jdbc">SpringBoot-Batch-Mysql-to-csv-jdbc</a> </li>
+  <li> <a href="/SpringBootBatch/SpringBoot-Batch-Mysql-to-CSV-ORM">SpringBoot-Batch-Mysql-to-CSV-ORM</a> </li>
 
 </ol>
     
