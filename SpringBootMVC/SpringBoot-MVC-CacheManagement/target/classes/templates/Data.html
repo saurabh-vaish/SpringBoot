@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h3>Welcome to All Records Page</h3>
+<table border="1">
+	<tr>
+		<th>ID</th>
+		<th>CODE</th>
+		<th>NAME</th>
+		<th>TYPE</th>
+		<th>NOTE</th>
+		<th colspan="3">OPERATIONS</th>
+		
+	</tr>
+	<tr th:each="ob:${list}">
+		<td th:text="${ob.custId}"></td>
+		<td th:text="${ob.custCode}"></td>
+		<td th:text="${ob.custName}"></td>
+		<td th:text="${ob.custType}"></td>
+		<td th:text="${ob.note}"></td>
+		<td>
+			<a th:href="@{/customer/view/{id}(id=${ob.custId})}">VIEW</a>
+		</td>
+		<td>
+			<a th:href="@{/customer/edit/{id}(id=${ob.custId})}">EDIT</a>
+		</td>		
+		<td>
+			<a th:href="@{/customer/delete/{id}(id=${ob.custId})}">DELETE</a>
+		</td>		
+	</tr>
+</table>
+<span th:text="${message}"></span>
+</body>
+</html>
+
+
+
+

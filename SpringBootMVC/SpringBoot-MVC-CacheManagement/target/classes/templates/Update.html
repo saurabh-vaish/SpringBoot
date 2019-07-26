@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<h3 >Welcome to Customer Update Page</h3>
+
+	<form action="#" method="POST"  th:action="@{/customer/update}" th:object="${customer}"> 
+<pre>
+
+ID 	 : <input type="text" th:field="*{custId}" readonly="readonly"/> <span th:errors="*{custId}"></span>
+CODE : <input type="text" th:field="*{custCode}"/> <span th:errors="*{custCode}"></span>
+NAME : <input type="text" th:field="*{custName}"/> <span th:errors="*{custName}"></span>
+TYPE : <select th:field="*{custType}">  
+		<option value="REG">REG</option>
+		<option value="CONT">CONT</option>
+		<option value="GUST">GUST</option>
+	   </select>								 <span th:errors="*{custType}"></span>
+NOTE : <textarea th:field="*{note}"></textarea>   <span th:errors="*{note}"></span>
+		
+		<input  type="submit" value="Update" /> 	   
+
+</pre>
+</form>
+
+<span  th:text="${message}"></span>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

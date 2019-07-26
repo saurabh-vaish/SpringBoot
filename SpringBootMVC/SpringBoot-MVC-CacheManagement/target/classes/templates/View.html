@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h3>Welcome to View One Page</h3>
+<table border="1">
+	<tr>
+		<th>ID</th>
+		<td th:text="${ob.custId}"></td>
+	</tr>
+	
+	<tr>
+		<th>CODE</th>
+		<td th:text="${ob.custCode}"></td>
+	</tr>
+	
+	<tr>
+		<th>NAME</th>
+		<td th:text="${ob.custName}"></td>
+	</tr>
+	
+	<tr>
+		<th>TYPE</th>
+		<td th:text="${ob.custType}"></td>
+	</tr>
+	
+	<tr>
+		<th>NOTE</th>
+		<td th:text="${ob.note}"></td>
+	</tr>
+</table>
+</body>
+</html>
+
+
+
+
