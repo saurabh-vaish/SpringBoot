@@ -38,6 +38,8 @@
   <li> <a href="/SpringBootBatch/SpringBoot-Batch-csv-to-mysql-web">SpringBoot-Batch-csv-to-mysql-web</a> </li>
   <li> <a href="/SpringBootBatch/SpringBoot-Batch-Mysql-to-csv-jdbc">SpringBoot-Batch-Mysql-to-csv-jdbc</a> </li>
   <li> <a href="/SpringBootBatch/SpringBoot-Batch-Mysql-to-CSV-ORM">SpringBoot-Batch-Mysql-to-CSV-ORM</a> </li>
+   <li> <a href="/SpringBootBatch/SpringBoot-Batch-Json-to-Mongo">SpringBoot-Batch-Json-to-Mongo</a> </li>
+   <li> <a href="/SpringBootBatch/SpringBoot-Batch-MongoDb-to-Json">SpringBoot-Batch-MongoDb-to-Json</a> </li>
 
 </ol>
     
