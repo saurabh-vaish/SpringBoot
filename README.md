@@ -42,6 +42,8 @@
    <li> <a href="/SpringBootBatch/SpringBoot-Batch-Json-to-Mongo">SpringBoot-Batch-Json-to-Mongo</a> </li>
    <li> <a href="/SpringBootBatch/SpringBoot-Batch-MongoDb-to-Json">SpringBoot-Batch-MongoDb-to-Json</a> </li>
    <li> <a href="/Microservices/Provider-Rest-LegacyStyle">SpringBoot-Microservices-Provider-Rest-LegacyStyle</a> </li>
-   <li> <a href="/Microservices/Provider-Rest-LegacyStyle">SpringBoot-Microservices-Provider-Rest-LegacyStyle</a> </li>
+   <li> <a href="/Microservices/Parameters-in-webServices-Producer">SpringBoot-Microservices-Parameters-in-webServices-Producer</a> </li>
+   <li> <a href="/Microservices/Consumer-UsingRestTemplate-LegacyStyle">SpringBoot-Microservices-Consumer-UsingRestTemplate-LegacyStyle</a> </li>
+   <li> <a href="/Microservices/Provider-Crud-Rest-Mysql-Jpa">SpringBoot-Microservices-Provider-Crud-Rest-Mysql-Jpa</a> </li>
 </ol>
     
