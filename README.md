@@ -45,5 +45,6 @@
    <li> <a href="/Microservices/Parameters-in-webServices-Producer">SpringBoot-Microservices-Parameters-in-webServices-Producer</a> </li>
    <li> <a href="/Microservices/Consumer-UsingRestTemplate-LegacyStyle">SpringBoot-Microservices-Consumer-UsingRestTemplate-LegacyStyle</a> </li>
    <li> <a href="/Microservices/Provider-Crud-Rest-Mysql-Jpa">SpringBoot-Microservices-Provider-Crud-Rest-Mysql-Jpa</a> </li>
+   <li> <a href="/Microservices/Provider-Rest-Mysql-Swagger">Provider-Rest-Mysql-Swagger</a> </li>
 </ol>
     
