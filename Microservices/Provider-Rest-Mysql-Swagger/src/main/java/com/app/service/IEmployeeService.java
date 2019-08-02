@@ -15,5 +15,7 @@ public interface IEmployeeService {
 	public void deleteEmployee(Integer eid);
 	
 	public List<Employee> getAll();
+	
+	boolean isPresent(Integer id);
 
 }

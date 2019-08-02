@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.app.exception.StudentNotFoundException;
 import com.app.model.Student;
 import com.app.service.IStudentService;
 
@@ -94,8 +95,13 @@ public class StudentController {
 	@PutMapping("/update")
 	public ResponseEntity<String> updateStudent(@RequestBody Student s)
 	{
-		service.saveStudent(s);
-		return new ResponseEntity<String>("Student updated successfully",HttpStatus.OK);
+		boolean present = service.isPresent(s.getSid());
+		if(present)
+		{
+			service.updateStudent(s);
+			return new ResponseEntity<String>("Student updated successfully",HttpStatus.OK);
+		}
+		else throw new StudentNotFoundException("No Student Found");
 	}
 	
 	

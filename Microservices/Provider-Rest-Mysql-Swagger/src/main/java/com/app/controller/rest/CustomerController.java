@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.app.exception.CustomerNotFoundException;
 import com.app.model.Customer;
 import com.app.service.ICustomerService;
 
@@ -65,7 +66,7 @@ public class CustomerController {
 	@PostMapping("/save")
 	public ResponseEntity<String> saveCustomer(@RequestBody Customer c)
 	{
-		Integer id =service.saveCustomer(c);
+		service.saveCustomer(c);
 		return new ResponseEntity<String>("Customer registred successfully",HttpStatus.OK);
 	}
 	
@@ -76,8 +77,13 @@ public class CustomerController {
 	@PutMapping("/update")
 	public ResponseEntity<String> updateCustomer(@RequestBody Customer c)
 	{
-		service.saveCustomer(c);
-		return new ResponseEntity<String>("Customer updated successfully",HttpStatus.OK);
+		boolean present = service.isPresent(c.getCid());
+		if(present)
+		{
+			service.updateCustomer(c);
+			return new ResponseEntity<String>("Customer updated successfully",HttpStatus.OK);
+		}
+		else throw new CustomerNotFoundException("No Customer Found");
 	}
 	
 	

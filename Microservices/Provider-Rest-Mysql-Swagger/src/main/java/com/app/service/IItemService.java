@@ -15,5 +15,7 @@ public interface IItemService {
 	public void deleteItem(Integer id);
 	
 	public List<Item> getAll();
+	
+	boolean isPresent(Integer id);
 
 }

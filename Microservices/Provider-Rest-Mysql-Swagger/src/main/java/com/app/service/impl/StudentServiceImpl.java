@@ -37,7 +37,14 @@ public class StudentServiceImpl implements IStudentService {
 	public Integer updateStudent(Student s) {
 		return repo.save(s).getSid();
 	}
-
+	
+	
+	@Transactional(readOnly = true)
+	public boolean isPresent(Integer id)
+	{
+		return repo.existsById(id);
+	}
+	
 	
 	@Transactional(readOnly = true)
 	public Student getStudent(Integer sid) {

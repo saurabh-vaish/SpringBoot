@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.app.exception.ItemNotFoundException;
 import com.app.model.Item;
 import com.app.service.IItemService;
 
@@ -77,8 +78,13 @@ public class ItemController {
 	@PutMapping("/update")
 	public ResponseEntity<String> updateItem(@RequestBody Item i)
 	{
-		service.saveItem(i);
-		return new ResponseEntity<String>("Item updated successfully",HttpStatus.OK);
+		boolean present = service.isPresent(i.getItemId());
+		if(present)
+		{
+			service.updateItem(i);
+			return new ResponseEntity<String>("Item updated successfully",HttpStatus.OK);
+		}
+		else throw new ItemNotFoundException("No Item Found");
 	}
 	
 	

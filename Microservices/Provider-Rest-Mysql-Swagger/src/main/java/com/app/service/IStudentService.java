@@ -17,4 +17,6 @@ public interface IStudentService {
 	public List<Student> getAll();
 
 	public List<Student> saveAllStudent(List<Student> s);
+
+	boolean isPresent(Integer id);
 }

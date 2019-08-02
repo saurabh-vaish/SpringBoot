@@ -31,6 +31,13 @@ public class CustomerServiceImpl implements ICustomerService {
 	public Integer updateCustomer(Customer c) {
 		return repo.save(c).getCid();
 	}
+	
+	
+	@Transactional(readOnly = true)
+	public boolean isPresent(Integer id)
+	{
+		return repo.existsById(id);
+	}
 
 	
 	@Transactional(readOnly = true)

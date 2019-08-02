@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.app.exception.EmployeeNotFoundException;
 import com.app.model.Employee;
 import com.app.service.IEmployeeService;
 
@@ -65,7 +66,7 @@ public class EmployeeController {
 	@PostMapping("/save")
 	public ResponseEntity<String> saveEmployee(@RequestBody Employee e)
 	{
-		Integer id =service.saveEmployee(e);
+		service.saveEmployee(e);
 		return new ResponseEntity<String>("Employee registred successfully",HttpStatus.OK);
 	}
 	
@@ -78,8 +79,13 @@ public class EmployeeController {
 	@PutMapping("/update")
 	public ResponseEntity<String> updateEmployee(@RequestBody Employee e)
 	{
-		service.saveEmployee(e);
-		return new ResponseEntity<String>("Employee updated successfully",HttpStatus.OK);
+		boolean present = service.isPresent(e.getEmpId());
+		if(present)
+		{
+			service.updateEmployee(e);
+			return new ResponseEntity<String>("Employee updated successfully",HttpStatus.OK);
+		}
+		else throw new EmployeeNotFoundException("No Employee Found");
 	}
 	
 	

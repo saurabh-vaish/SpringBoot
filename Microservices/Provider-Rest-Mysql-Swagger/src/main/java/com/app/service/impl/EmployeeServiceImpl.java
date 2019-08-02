@@ -34,6 +34,14 @@ public class EmployeeServiceImpl implements IEmployeeService {
 
 	
 	@Transactional(readOnly = true)
+	public boolean isPresent(Integer id)
+	{
+		return repo.existsById(id);
+	}
+	
+	
+	
+	@Transactional(readOnly = true)
 	public Employee getEmployee(Integer eid) {
 		Optional<Employee> s= repo.findById(eid);
 		if(s.isPresent()) {

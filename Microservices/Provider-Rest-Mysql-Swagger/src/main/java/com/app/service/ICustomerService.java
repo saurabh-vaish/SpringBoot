@@ -15,5 +15,7 @@ public interface ICustomerService {
 	public void deleteCustomer(Integer cid);
 	
 	public List<Customer> getAll();
+	
+	boolean isPresent(Integer id);
 
 }

@@ -34,6 +34,13 @@ public class ItemServiceImpl implements IItemService {
 
 	
 	@Transactional(readOnly = true)
+	public boolean isPresent(Integer id)
+	{
+		return repo.existsById(id);
+	}
+	
+	
+	@Transactional(readOnly = true)
 	public Item getItem(Integer id) {
 		Optional<Item> s= repo.findById(id);
 		if(s.isPresent()) {
