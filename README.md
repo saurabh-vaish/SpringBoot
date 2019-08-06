@@ -46,7 +46,11 @@
    <li> <a href="/Microservices/Consumer-UsingRestTemplate-LegacyStyle">SpringBoot-Microservices-Consumer-UsingRestTemplate-LegacyStyle</a> </li>
    <li> <a href="/Microservices/Provider-Crud-Rest-Mysql-Jpa">SpringBoot-Microservices-Provider-Crud-Rest-Mysql-Jpa</a> </li>
    <li> <a href="/Microservices/Provider-Rest-Mysql-Swagger">Provider-Rest-Mysql-Swagger</a> </li>
-   <li> <a href="/Microservices/SpringCloud-Eureka-Server">SpringCloud-Eureka-Server</a> </li>
-   <li> <a href="/Microservices/SpringCloud-Eureka-Provider">SpringCloud-Eureka-Provider</a> </li>
+   <li> <a href="/Microservices/SpringCloudEureka/SpringCloud-Eureka-Server">SpringCloud-Eureka-Server</a> </li>
+   <li> <a href="/Microservices/SpringCloudEureka/SpringCloud-Eureka-Provider">SpringCloud-Eureka-Provider</a> </li>
+   <li> <a href="/Microservices/SpringCloudEureka/SpringCloud-Eureka-Consumer">SpringCloud-Eureka-Consumer</a> </li>
+   <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Server">SpringCloud_LoadBalancer-Eureka-Server</a> </li>
+   <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Producer-Model">SpringCloud_LoadBalancer-Eureka-Producer-Model</a> </li>
+   <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Producer-Product">SpringCloud_LoadBalancer-Eureka-Producer-Product</a> </li>
 </ol>
     
