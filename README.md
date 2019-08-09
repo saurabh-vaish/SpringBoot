@@ -52,5 +52,8 @@
    <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Server">SpringCloud_LoadBalancer-Eureka-Server</a> </li>
    <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Producer-Model">SpringCloud_LoadBalancer-Eureka-Producer-Model</a> </li>
    <li> <a href="/Microservices/SpringCloudLoadBalancerClient/SpringCloud_LoadBalancer-Eureka-Producer-Product">SpringCloud_LoadBalancer-Eureka-Producer-Product</a> </li>
+  <li> <a href="/Microservices/SpringCloudFeignClient/SpringCloud_FeignClient-EurekaServer">SpringCloud_FeignClient-EurekaServer</a> </li>
+  <li> <a href="/Microservices/SpringCloudFeignClient/SpringCloud_FeignClient-Provider-Dept">SpringCloud_FeignClient-Provider-Dept</a> </li>
+  <li> <a href="/Microservices/SpringCloudFeignClient/SpringCloud_FeignClient-EurekaServer">SpringCloud_FeignClient-Consumer-Admin</a> </li>
 </ol>
     
