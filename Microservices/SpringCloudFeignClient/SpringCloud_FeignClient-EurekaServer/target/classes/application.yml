@@ -1,0 +1,8 @@
+# prevent eureka to register with itself
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+# server port
+server:
+  port: 8761

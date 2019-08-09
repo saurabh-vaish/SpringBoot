@@ -1,0 +1,16 @@
+#server port
+server:
+  port: 9091
+# service id
+spring:
+  application:
+    name: DEPT-PROVIDER
+# server url
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka
+# instance id
+  instance:
+    instance-id: ${spring.application.name}:${random.value}
+      
