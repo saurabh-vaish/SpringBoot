@@ -59,5 +59,7 @@
    <li> <a href="/Microservices/SpringCloudConfigServer/SpringCloud_ConfigServer-ConfigClinet-CartApp">SpringCloud_ConfigServer-ConfigClinet-CartApp</a> </li>
    <li> <a href="/Microservices/SpringCloudConfigServer/SpringCloud_ConfigServer-ConfigServer-Native">SpringCloud_ConfigServer-ConfigServer-Native</a> </li>
    <li> <a href="/Microservices/SpringCloudConfigServer/SpringCloud_ConfigServer-ConfigServer-External">SpringCloud_ConfigServer-ConfigServer-External</a> </li>
+  <li> <a href="/Microservices/SpringCloudFaultTolerence-CircuitBreaker/SpringCloud_FaultToleremce-Hystrix-EurekaServer">SpringCloud_FaultToleremce-Hystrix-EurekaServer</a> </li>
+   <li> <a href="/Microservices/SpringCloudFaultTolerence-CircuitBreaker/SpringCloud_FaultToleremce-Hystrix-ExampleApp">SpringCloud_FaultToleremce-Hystrix-ExampleApp</a> </li>
 </ol>
     
