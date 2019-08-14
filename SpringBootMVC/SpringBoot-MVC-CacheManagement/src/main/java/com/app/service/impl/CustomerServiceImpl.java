@@ -60,7 +60,7 @@ public class CustomerServiceImpl implements ICustomerService {
 	@Override
 	@Transactional
 	@CachePut(value="cust-cache",key="#custId")
-	public Customer updateCust(Integer custId,Customer c) {  // first id, then object
+	public Customer updateCust(Integer custId,Customer c) {  // // first id, then object and for CachePut update mathod must return same object
 		
 		return repo.save(c);
 	}
