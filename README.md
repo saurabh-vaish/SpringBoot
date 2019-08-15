@@ -61,5 +61,8 @@
    <li> <a href="/Microservices/SpringCloudConfigServer/SpringCloud_ConfigServer-ConfigServer-External">SpringCloud_ConfigServer-ConfigServer-External</a> </li>
   <li> <a href="/Microservices/SpringCloudFaultTolerence-CircuitBreaker/SpringCloud_FaultToleremce-Hystrix-EurekaServer">SpringCloud_FaultToleremce-Hystrix-EurekaServer</a> </li>
    <li> <a href="/Microservices/SpringCloudFaultTolerence-CircuitBreaker/SpringCloud_FaultToleremce-Hystrix-ExampleApp">SpringCloud_FaultToleremce-Hystrix-ExampleApp</a> </li>
+   <li> <a href="/Microservices/SpringCloudZuul/SpringCloud_ZuulGateway-EurekaServer">SpringCloud_ZuulGateway-EurekaServer</a> </li>
+  <li> <a href="/Microservices/SpringCloudFaultTolerence-CircuitBreaker/SpringCloud_ZuulGateway-ConstomerApp">SpringCloud_ZuulGateway-ConstomerApp</a> </li>
+  <li> <a href="/Microservices/SpringCloudZuul/SpringCloud_ZuulGateway-ZuulServer">SpringCloud_ZuulGateway-ZuulServer</a> </li>
 </ol>
     
