@@ -70,5 +70,9 @@
   <li> <a href="/MessageQueue/ActiveMQ-Pub-Sub/ActiveMQ-Pub-Sub-Consumer1">ActiveMQ-Pub-Sub-Consumer1</a> </li>
   <li> <a href="/MessageQueue/ActiveMQ-Pub-Sub/ActiveMQ-Pub-Sub-Consumer2">ActiveMQ-Pub-Sub-Consumer2</a> </li>
   <li> <a href="/MessageQueue/ActiveMQ-Pub-Sub/ActiveMQ-Pub-Sub-Consumer3">ActiveMQ-Pub-Sub-Consumer3</a> </li>
+  <li> <a href="/MessageQueue/KafkaProducer/Kafka-producer">Kafka-producer</a> </li>
+  <li> <a href="/MessageQueue/KafkaConsumer/Kafka-consumer-1">Kafka-consumer-1</a> </li>
+  <li> <a href="/MessageQueue/KafkaConsumer/Kafka-consumer-2">Kafka-consumer-2</a> </li>
+  <li> <a href="/MessageQueue/KafkaConsumer/Kafka-consumer-3">Kafka-consumer-3</a> </li>
 </ol>
     
